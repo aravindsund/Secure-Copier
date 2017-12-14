@@ -52,6 +52,6 @@ Secure copier is a software/ tool which allows the transfer of data between the 
  
  ## Module 5 : Formatting Module
  
-       Sub Module       | Start Date | End Date
-------------------------|------------|------------
- Technique of Formatting| 21-01-2018 | 31-01-2018
+  Sub Module         | Start Date | End Date
+---------------------|------------|------------
+ Formatting technique| 21-01-2018 | 31-01-2018
